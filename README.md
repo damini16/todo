@@ -1,2 +1,1 @@
-# todo
-todo app in django basics function like add delete task.........
+
